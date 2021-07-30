@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Htoo23
 - 👀 I’m interested in ...programming.
-- 🌱 I’m currently learning ...Myanmar.
+- 🌱 I’m currently learning ..react and bootstrap.
 - 💞️ I’m looking to collaborate on ...programming.
 - 📫 How to reach me ...
 
