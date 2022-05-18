@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...programming.
 - 🌱 I’m currently learning ..react and bootstrap.
 - 💞️ I’m looking to collaborate on ...programming.
-- 📫 How to reach me ...
+- 📫 I am noob developer pro max.
 
 <!---
 Htoo23/Htoo23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
