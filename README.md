@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Htoo23
 - 👀 I’m interested in ...programming.
 - 🌱 I’m currently learning ..react and bootstrap.
-- 💞️ I’m looking to collaborate on ...programming.
+- 💞️ I’m looking to collaborate on something i want to do!
 - 📫 I am noob developer pro max.
 
 <!---
