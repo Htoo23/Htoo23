@@ -26,7 +26,14 @@
 
 ## 🧰 Technologies & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,java,spring,mysql,mongodb,docker,git,github,postman,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=
+js,ts,react,reactnative,next,nodejs,express,
+cs,dotnet,
+java,spring,
+mysql,mongodb,
+aws,docker,
+git,github,postman,linux
+&perline=7" />
 </p>
 
 ---
