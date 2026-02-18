@@ -1,13 +1,48 @@
+<h1 align="center">Hi there 👋, I'm Htoo Aung Lin</h1>
+<p align="center">
+  Full-stack developer • MERN / Spring Boot • Building cool stuff on the internet
+</p>
 
+<p align="center">
+  <a href="https://htooaunglindev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"></a>
+  <a href="https://github.com/Htoo23"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"></a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Htoo23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-👋 Hi, I'm Htoo Aung Lin
-About Me
-I'm a passionate and disciplined software engineer with a strong background in IT and software development. A self-taught programmer, I hold dual degrees as a 2025 graduate from both the University of the People and the University of Greenwich. I also bring two years of hands-on experience in the Banking IT sector, where I honed my skills in delivering secure, scalable solutions.
+---
 
-Interests
-Programming: Constantly learning and experimenting, with a current focus on React and Bootstrap.
-Problem-Solving: Driven to build efficient, user-centered applications.
-Collaboration: Open to joining exciting, impactful projects where I can bring value and continue to grow as a developer.
-Let's Connect
-📫 I'm always open to connecting with other developers, whether you're a beginner or seasoned pro. Let's build something great together!
+## 👨‍💻 More About Me
+- 🔭 I’m currently working on **MERN + Spring Boot projects**
+- 🌱 Learning: **System Design, Microservices, Security**
+- 🧩 Most of my projects are on **GitHub**
+- 📝 Check out my portfolio: **https://htooaunglindev.vercel.app/**
+- ⚡ Fun fact: I love finding and fixing vulnerabilities 🔐
+- 📫 How to reach me: **your-email@gmail.com**
+
+---
+
+## 🧰 Technologies & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,java,spring,mysql,mongodb,docker,git,github,postman,linux&perline=7" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Htoo23&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htoo23&layout=compact&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Htoo23&hide_border=true" />
+</p>
+
+---
+
+## 🔗 Links
+- 🌐 Portfolio: https://htooaunglindev.vercel.app/
+- 🧑‍💻 GitHub: https://github.com/Htoo23
