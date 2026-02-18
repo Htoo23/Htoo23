@@ -20,7 +20,7 @@
 - 🧩 Most of my projects are on **GitHub**
 - 📝 Check out my portfolio: **https://htooaunglindev.vercel.app/**
 - ⚡ Fun fact: I love finding and fixing vulnerabilities 🔐
-- 📫 How to reach me: htooaunglin2342002@gmail.com
+- 📫 How to reach me: **your-email@gmail.com**
 
 ---
 
